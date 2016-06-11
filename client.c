@@ -6,6 +6,12 @@
 
 #include <string.h>
 
+/**
+ *
+ * @author Deeksha Kaul (deekshakaul1@gmail.com)
+ *
+ */
+
 int main(int argc, char *argv[]) {
    int sockfd, portno, n;
    struct sockaddr_in serv_addr;

@@ -5,6 +5,11 @@
 #include <time.h>
 #include <string.h>
 
+/**
+ *
+ * @author Deeksha Kaul (deekshakaul1@gmail.com)
+ *
+ */
 void doprocessing (int sock);
 
 int main( int argc, char *argv[] ) {
